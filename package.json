@@ -1,0 +1,24 @@
+{
+  "name": "performance-testing",
+  "version": "1.0.0",
+  "description": "Grafana k6 is an open-source load testing tool that makes performance testing easy and productive for engineering teams. k6 is free, developer-centric, and extensible.",
+  "main": "api.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@faker-js/faker": "^7.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/stacktrek/performance-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/stacktrek/performance-testing/issues"
+  },
+  "homepage": "https://gitlab.com/stacktrek/performance-testing#readme",
+  "type": "module"
+}
